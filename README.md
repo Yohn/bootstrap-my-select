@@ -1,4 +1,4 @@
-bootstrap-mySelect
+Bootstrap-My-Select
 ==================
 
 yet another select box plugin that was made for bootstrap, only smaller and simpler.
